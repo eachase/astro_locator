@@ -12,8 +12,10 @@ The goal of this project is to determine the latitude and longitude of a postiti
 # Output
 - Latitude
 - Longitude
+- Map of zenith angle across the globe
 
 # Assumptions
-- ...
-- test
+- Ignores any atmospheric effects
+- Ignores changes in altitude
+- Assumes ICRS coordinate system
 
