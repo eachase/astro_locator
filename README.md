@@ -15,3 +15,5 @@ The goal of this project is to determine the latitude and longitude of a postiti
 
 # Assumptions
 - ...
+- test
+
